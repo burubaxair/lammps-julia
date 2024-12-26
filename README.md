@@ -4,4 +4,4 @@
 
 [defects03.ipynb](https://github.com/burubaxair/lammps-julia/blob/main/defects03.ipynb) - creates a graphene sheet with randomly distributed 5-7 defects
 
-[xyz2data.ipynb] - converts an xyz file to a LAMMPS data file
+[xyz2data.ipynb](https://github.com/burubaxair/lammps-julia/blob/main/xyz2data.ipynb) - converts an xyz file to a LAMMPS data file
